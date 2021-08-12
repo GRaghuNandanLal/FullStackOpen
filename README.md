@@ -1,3 +1,5 @@
-# FullStackOpen
-This course is held at the Department of Computer Science at the University of Helsinki in Spring 2020.  It serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.  GraphQL, a modern alternative to REST APIs is also covered by this course. <br>As well as testing, configuration &amp; environment management, and the use of MongoDB for storing the application’s data.<br> A part on TypeScript can also be found on this year's edition. <br>
-This repository contains my solutions for this course's exercises.
+# Part 0
+
+In this part, we will familiarize ourselves with the practicalities of taking the course. After that we will have an overview of the basics of web development, and also talk about the advances in web application development during the last few decades.
+# Raghu Nandan Lal Garikipati
+# KLUNIVERSITY
